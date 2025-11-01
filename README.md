@@ -4,6 +4,22 @@ A web platform that allows students and professionals to **exchange their skills
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](<img width="1119" height="908" alt="Homepage" src="https://github.com/user-attachments/assets/e818603c-335a-41bb-9fd5-fa3588b89519" />
+)
+
+### 🔐 Login Page/Sign in
+![Login Page](<img width="1647" height="894" alt="Login in" src="https://github.com/user-attachments/assets/2bd80e2e-206e-446c-907b-5c9b1b753261" />)
+
+[Sign in](<img width="816" height="927" alt="Sign in" src="https://github.com/user-attachments/assets/eefeba16-c7e2-4aa0-80f3-163269c67449" />)
+
+### 📋 Dashboard
+![Dashboard](<img width="1332" height="934" alt="Dashboard" src="https://github.com/user-attachments/assets/70920ea9-b814-44c7-8fed-985fa8f509e6" />
+)
+
+
 ## 🌟 Features
 
 - 🧑‍🏫 **User Registration & Login** – Secure sign-in system for all users.  
